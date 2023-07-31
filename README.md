@@ -1,6 +1,7 @@
-# Sage Towers Smart Contracts
+# [Sage Towers Smart Contracts](https://github.com/Sage-Towers/Smart-Contracts/tree/main/contracts)
 
-*If you want it you can have it. Reach out and grab it. - Tef*
+### If you want it you can have it; Reach out and grab it Obsidian Blades!
+*-Tef raid leading hakkar kill in ZG on TB during vanilla*
 
 # [Testnet (ChainID #90011337)](https://scan.sagetowers.com)
 ## [Sage Towers](https://sagetowers.com/)
