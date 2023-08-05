@@ -7,11 +7,11 @@ const ARBITRUM_MAINNET_TEMPORARY_PRIVATE_KEY = "";
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
   solidity: {
-    version: "0.8.18",
+    version: "0.8.8",
     settings: {
       optimizer: {
         enabled: true,
-        runs: 777
+        runs: 1337
       }
     }
   },
@@ -19,6 +19,10 @@ module.exports = {
   networks: {
     hardhat: {
       chainId: 1337
+    },
+    SageTowers: {
+    url: "https://chain.sagetowers.com",
+    chainId: 90011337,
     },
     arbitrumGoerli: {
       url: "https://goerli-rollup.arbitrum.io/rpc",
