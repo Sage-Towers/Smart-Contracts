@@ -16,3 +16,5 @@
 
 
 [**Radiant Gift** 0x13214cCE3d09e1cf3234B87805f5309b19DcaEDb](https://scan.sagetowers.com/address/0x13214cCE3d09e1cf3234B87805f5309b19DcaEDb)
+
+[**Radiant Gift (Minter)** 0xD2fF6D8c9989DFaD80a52393D72A4EDC51Ac1AB2](https://scan.sagetowers.com/address/0xD2fF6D8c9989DFaD80a52393D72A4EDC51Ac1AB2)
