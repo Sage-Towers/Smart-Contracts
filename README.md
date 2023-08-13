@@ -12,9 +12,9 @@
 [**Void Ether** 0xd752df910B93750e4bA6EE1761116BB08A97A73e](https://scan.sagetowers.com/address/0xd752df910B93750e4bA6EE1761116BB08A97A73e)
 
 
-[**Logical Mechanism** 0xCb164D4512E87C6c190f01B32c26FB3BC143b88e](https://scan.sagetowers.com/address/0xCb164D4512E87C6c190f01B32c26FB3BC143b88e)
+[**Logical Mechanism** 0x3C856b95ADe474a321c92b5002436b7C57Fe5F96](https://scan.sagetowers.com/address/0x3C856b95ADe474a321c92b5002436b7C57Fe5F96)
 
 
-[**Radiant Gift** 0x13214cCE3d09e1cf3234B87805f5309b19DcaEDb](https://scan.sagetowers.com/address/0x13214cCE3d09e1cf3234B87805f5309b19DcaEDb)
+[**Radiant Gift** 0x786591395a50E5f3De4eF6014D6E2012D339EbeB](https://scan.sagetowers.com/address/0x786591395a50E5f3De4eF6014D6E2012D339EbeB)
 
 [**Radiant Gift (Minter)** 0xD2fF6D8c9989DFaD80a52393D72A4EDC51Ac1AB2](https://scan.sagetowers.com/address/0xD2fF6D8c9989DFaD80a52393D72A4EDC51Ac1AB2)
