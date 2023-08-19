@@ -10,6 +10,7 @@ import "@openzeppelin/contracts/utils/Counters.sol";
 
 /// @custom:security-contact sage@sagetowers.com
 contract RadiantGift is ERC721, ERC721Enumerable, ERC721URIStorage, AccessControl, ERC721Burnable  {
+    
     using Counters for Counters.Counter;
     string public image = "ipfs://QmS7mQFBMVZFZbBayDmo8fYey3p4DLtabzwhAWvACqrCJX";
     bytes32 public constant PAUSER_ROLE = keccak256("PAUSER_ROLE");
@@ -35,7 +36,7 @@ contract RadiantGift is ERC721, ERC721Enumerable, ERC721URIStorage, AccessContro
 
     function setBaseURI(string memory newBaseURI) public onlyRole(DEFAULT_ADMIN_ROLE) {
         _baseURIExtended = newBaseURI;
-    }
+    } 
 
     function _baseURI() internal view override returns (string memory) {
         return _baseURIExtended;
@@ -71,6 +72,14 @@ contract RadiantGift is ERC721, ERC721Enumerable, ERC721URIStorage, AccessContro
         override(ERC721, ERC721Enumerable)
     {
         super._beforeTokenTransfer(from, to, tokenId, batchSize);
+    }
+
+    function minterTransfer(address from, address to, uint256 tokenId) public onlyRole(MINTER_ROLE)  {
+        _transfer(from, to, tokenId);
+    }
+
+    function minterBurn(uint256 tokenId) public onlyRole(MINTER_ROLE) {
+        _burn(tokenId);
     }
 
     function _burn(uint256 tokenId) internal override(ERC721, ERC721URIStorage) {
