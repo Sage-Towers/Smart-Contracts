@@ -15,6 +15,6 @@
 [**Logical Mechanism** 0x3C856b95ADe474a321c92b5002436b7C57Fe5F96](https://scan.sagetowers.com/address/0x3C856b95ADe474a321c92b5002436b7C57Fe5F96)
 
 
-[**Radiant Gift** 0x786591395a50E5f3De4eF6014D6E2012D339EbeB](https://scan.sagetowers.com/address/0x786591395a50E5f3De4eF6014D6E2012D339EbeB)
+[**Radiant Gift** 0x3A94C2EdCa88A37932a5486A06848e9c0d21e022](https://scan.sagetowers.com/address/0x3A94C2EdCa88A37932a5486A06848e9c0d21e022)
 
 [**Radiant Gift (Minter)** 0xD2fF6D8c9989DFaD80a52393D72A4EDC51Ac1AB2](https://scan.sagetowers.com/address/0xD2fF6D8c9989DFaD80a52393D72A4EDC51Ac1AB2)
