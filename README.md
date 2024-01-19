@@ -3,18 +3,23 @@
 ### If you want it you can have it; Reach out and grab it Obsidian Blades!
 *-Tef raid leading Hakkar kill in ZG on TB during vanilla*
 
-# [Testnet (ChainID #90011337)](https://scan.sagetowers.com)
-## [Sage Towers](https://sagetowers.com/)
+# [Arbitrum Nova](https://nova.arbiscan.io/)
 
-[**Voidrite** 0x3ab85c1ED41A9f8275f7a446DaF5D7426e8eC839](https://scan.sagetowers.com/address/0x3ab85c1ED41A9f8275f7a446DaF5D7426e8eC839)
+[**Logical Mechanism (LLM)** 0x226B70c1Af7FeA262D252b5A16E55057bb1c79be](https://nova.arbiscan.io/address/0x226B70c1Af7FeA262D252b5A16E55057bb1c79be)
+[**LLM Minter** 0xec8d5f4087831d985f734BD167f1fb33e5146481](https://nova.arbiscan.io/address/0xec8d5f4087831d985f734BD167f1fb33e5146481)
 
+# [Arbitrum Sepolia](https://sepolia.arbiscan.io/)
 
-[**Void Ether** 0xd752df910B93750e4bA6EE1761116BB08A97A73e](https://scan.sagetowers.com/address/0xd752df910B93750e4bA6EE1761116BB08A97A73e)
+[**Logical Mechanism** 0xe033dc46d7b8970c072f7909f56a5070079e316a](https://sepolia.arbiscan.io/address/0xe033dc46d7b8970c072f7909f56a5070079e316a)
 
+[**Fire Essence** 0xF66F6A6987176081F39C8E72A678b0979bdeBAAb](https://sepolia.arbiscan.io/address/0xF66F6A6987176081F39C8E72A678b0979bdeBAAb)
 
-[**Logical Mechanism** 0x3C856b95ADe474a321c92b5002436b7C57Fe5F96](https://scan.sagetowers.com/address/0x3C856b95ADe474a321c92b5002436b7C57Fe5F96)
+[**Earth Essence** 0xf7b92caf31c763d224e105200e096aec03bfc4ae](https://sepolia.arbiscan.io/address/0xf7b92caf31c763d224e105200e096aec03bfc4ae)
 
+[**Nature Essence** 0x06727F1196128b04e54fEAd7726887038AFBCc4F](https://sepolia.arbiscan.io/address/0x06727F1196128b04e54fEAd7726887038AFBCc4F)
 
-[**Radiant Gift** 0x3A94C2EdCa88A37932a5486A06848e9c0d21e022](https://scan.sagetowers.com/address/0x3A94C2EdCa88A37932a5486A06848e9c0d21e022)
+[**Lightning Essence** 0xAe6578348da0C59f7a3121164F360e40b575d101](https://sepolia.arbiscan.io/address/0xAe6578348da0C59f7a3121164F360e40b575d101)
 
-[**Radiant Gift (Minter)** 0xD2fF6D8c9989DFaD80a52393D72A4EDC51Ac1AB2](https://scan.sagetowers.com/address/0xD2fF6D8c9989DFaD80a52393D72A4EDC51Ac1AB2)
+[**Wind Essence** 0x43AeC9a5a193CCE6731acb7c2670c4a48627e758](https://sepolia.arbiscan.io/address/0x43AeC9a5a193CCE6731acb7c2670c4a48627e758)
+
+[**Water Essence** 0x06727F1196128b04e54fEAd7726887038AFBCc4F](https://sepolia.arbiscan.io/address/0x06727F1196128b04e54fEAd7726887038AFBCc4F)
