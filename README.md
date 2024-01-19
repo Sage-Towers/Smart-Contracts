@@ -6,6 +6,7 @@
 # [Arbitrum Nova](https://nova.arbiscan.io/)
 
 [**Logical Mechanism (LLM)** 0x226B70c1Af7FeA262D252b5A16E55057bb1c79be](https://nova.arbiscan.io/address/0x226B70c1Af7FeA262D252b5A16E55057bb1c79be)
+
 [**LLM Minter** 0xec8d5f4087831d985f734BD167f1fb33e5146481](https://nova.arbiscan.io/address/0xec8d5f4087831d985f734BD167f1fb33e5146481)
 
 # [Arbitrum Sepolia](https://sepolia.arbiscan.io/)
